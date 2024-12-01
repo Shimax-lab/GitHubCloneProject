@@ -1,5 +1,1 @@
-[B[A[A[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C
-[B
-
 Hello, this is a message from my cloned repository!
